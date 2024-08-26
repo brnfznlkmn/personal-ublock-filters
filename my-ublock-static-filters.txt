@@ -13,6 +13,8 @@ www.instagram.com##.better-ig-download
 www.threads.net##.xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
 www.threads.net##.xxbr6pl.xbbxn1n.x1g2khh7.xyinxu5
 www.threads.net##.xt8cgyo.x13fuv20.x6bh95i.x1l90r2v
+www.instagram.com##.wbloks_80.wbloks_1 > .wbloks_1
+www.instagram.com##div > .xnc8uc2.x11aubdm.xso031l.x1q0q8m5.x1bs97v6
 
 ! X.com
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(6)
@@ -34,7 +36,6 @@ www.youtube.com###vid-tags-block > div > div
 www.youtube.com###vid-tags-block
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid, false)
 www.youtube.com##.sponsorBlockCategoryPill
-www.youtube.com###yt-ext-info-bar
 
 ! FACEBOOK
 www.facebook.com##.xwib8y2.x1y1aw1k.x4arcmf.x1n2onr6
@@ -148,6 +149,9 @@ shopee.co.id##.r6OuTw.v-center.flex
 shopee.co.id##.hVHGVY
 shopee.co.id##.ho5zqj.v-center.flex
 shopee.co.id##.qLRgNc
+shopee.co.id##.shopee-header-section__content > .image-carousel > .image-carousel__item-list-wrapper > .image-carousel__item-list
+shopee.co.id##.home-category-list
+shopee.co.id##.Hhwytd.gJkGj_
 
 
 ! Tiktok
@@ -215,6 +219,10 @@ www.1024tera.com##.action-bar-view
 www.reddit.com##shreddit-mod-comment .max-w-full.inline-block.mx-2xs.xs\:mx-xs.py-0
 
 
+||statics.1mv.xyz/ccge/ll0.xml?v=2$image
+
+
+
 ! Jul 25, 2024 https://vip.idlixofficialx.net
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfaWIHz9Dz4jeLdXMtH3r9q8mX1R1fD_dKPQoDY2MarPdoSOjg6sRlgauGwNKAXxpJ1PHVDiFjqFITnVTcPOayTp9OkQsmAJDRnI9_aVPDhLizPmR3kuQccfrpZt9C6yKAZKLh0i6Re0T6jpKZL152bZGNK5eYoeUSNTOBnQ7SyXTaLhNwAiYkHrOVGLk/s1600/1-300x300.gif$image
 vip.idlixofficialx.net###contenedor > center
@@ -228,9 +236,33 @@ vip.idlixofficialx.net##.module_single_ads
 translatesubtitles.co##.cnt223
 translatesubtitles.co##.fixed-top.bg-dark.navbar-dark.navbar-expand-lg.navbar
 
+
+! Aug 4, 2024 https://bantenexis.com
+bantenexis.com##.col-md-8.content-area
+bantenexis.com##.col-md-4.widget-area
+bantenexis.com###footer-sidebar
+bantenexis.com##.site-footer
+
+! Aug 4, 2024 https://cooklike.info
+cooklike.info##.site-main
+cooklike.info##.sidebar.widget-area
+cooklike.info###site-bottom
+
+! Aug 4, 2024 https://shopee.co.id
+
 ! Aug 5, 2024 https://steamdb.info
 steamdb.info##.header-sales
+
+! Aug 14, 2024 https://www.youtube.com
+www.youtube.com###yt-ext-info-bar
 
 ! Aug 24, 2024 https://my.nextdns.io
 my.nextdns.io##.near-quota.HeaderMessage
 my.nextdns.io##.over-quota.HeaderMessage
+
+! Aug 26, 2024 https://www.instagram.com
+
+! Aug 26, 2024 https://shopee.co.id
+
+
+
