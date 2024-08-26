@@ -36,6 +36,7 @@ www.youtube.com###vid-tags-block > div > div
 www.youtube.com###vid-tags-block
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid, false)
 www.youtube.com##.sponsorBlockCategoryPill
+www.youtube.com###yt-ext-info-bar
 
 ! FACEBOOK
 www.facebook.com##.xwib8y2.x1y1aw1k.x4arcmf.x1n2onr6
@@ -214,14 +215,6 @@ www.olx.co.id##._3r_j1
 www.olx.co.id##._1iXLP
 www.olx.co.id##._34jCd
 
-www.1024tera.com##.bottom-tip-wrap
-www.1024tera.com##.action-bar-view
-www.reddit.com##shreddit-mod-comment .max-w-full.inline-block.mx-2xs.xs\:mx-xs.py-0
-
-
-||statics.1mv.xyz/ccge/ll0.xml?v=2$image
-
-
 
 ! Jul 25, 2024 https://vip.idlixofficialx.net
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfaWIHz9Dz4jeLdXMtH3r9q8mX1R1fD_dKPQoDY2MarPdoSOjg6sRlgauGwNKAXxpJ1PHVDiFjqFITnVTcPOayTp9OkQsmAJDRnI9_aVPDhLizPmR3kuQccfrpZt9C6yKAZKLh0i6Re0T6jpKZL152bZGNK5eYoeUSNTOBnQ7SyXTaLhNwAiYkHrOVGLk/s1600/1-300x300.gif$image
@@ -242,27 +235,14 @@ bantenexis.com##.col-md-8.content-area
 bantenexis.com##.col-md-4.widget-area
 bantenexis.com###footer-sidebar
 bantenexis.com##.site-footer
-
-! Aug 4, 2024 https://cooklike.info
 cooklike.info##.site-main
 cooklike.info##.sidebar.widget-area
 cooklike.info###site-bottom
-
-! Aug 4, 2024 https://shopee.co.id
-
-! Aug 5, 2024 https://steamdb.info
+www.1024tera.com##.bottom-tip-wrap
+www.1024tera.com##.action-bar-view
+www.reddit.com##shreddit-mod-comment .max-w-full.inline-block.mx-2xs.xs\:mx-xs.py-0
 steamdb.info##.header-sales
 
-! Aug 14, 2024 https://www.youtube.com
-www.youtube.com###yt-ext-info-bar
-
-! Aug 24, 2024 https://my.nextdns.io
-my.nextdns.io##.near-quota.HeaderMessage
-my.nextdns.io##.over-quota.HeaderMessage
-
-! Aug 26, 2024 https://www.instagram.com
-
-! Aug 26, 2024 https://shopee.co.id
-
-
+! Aug 27, 2024 https://www.linkedin.com
+www.linkedin.com##.t-normal.t-12.ml1.artdeco-button--1.artdeco-button--secondary.artdeco-button.pv-text-details__verify-action.app-aware-link
 
