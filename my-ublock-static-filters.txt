@@ -111,52 +111,6 @@ www.tokopedia.com##.css-1ra7d4a
 www.tokopedia.com##.css-76y5tu
 www.tokopedia.com##.eeeacht0.css-1dp256a-unf-card > .css-x2jffe > .css-fcoe5x > .css-i679q5
 
-! SHOPEE
-shopee.co.id##.full-home-banners-wrapper
-shopee.co.id##shopee-banner-closable-ui
-shopee.co.id##.KNMxJX
-shopee.co.id##.R3bOnT
-shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section > .shopee-header-section__header
-shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section
-shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__header
-shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__content
-shopee.co.id##.mzI1jX
-shopee.co.id##.AI_1H4.v-center.flex
-shopee.co.id##.E1OWqQ
-shopee.co.id##.navbar__link--help.navbar__link--hoverable.navbar__link--tappable.navbar__link
-shopee.co.id##.VCnXyn.BGng4e
-shopee.co.id##.stardust-tabs-header__tab--active.stardust-tabs-header__tab
-shopee.co.id##.c_J_OI
-shopee.co.id##.Ji_QfP.DFTbCr
-shopee.co.id##.section-banner-hotword--no-skin
-shopee.co.id##.HLRhQB
-shopee.co.id##.lRHCcS.CzLyKQ
-shopee.co.id##.row.QLiXDZ
-shopee.co.id##.shopee-header-section__header
-shopee.co.id##.BjTxuU.WuLbM9
-shopee.co.id##.T5n8VV.dOZlXw.ificCM.WuLbM9
-shopee.co.id##.IR54W9.fDdBqs.WuLbM9
-shopee.co.id##.QmkEaL.clear-btn-style
-shopee.co.id##._RPX38
-shopee.co.id##.ArX7yj
-shopee.co.id##.AFNv_2.v-center.flex
-shopee.co.id##._Pemhq.EysywS
-shopee.co.id##.o3v65L.RGCpnH.flex
-shopee.co.id##a.iC4Gpu.RGCpnH
-shopee.co.id###pc-drawer-id-1 > .RGCpnH
-shopee.co.id##.N8nd7b.iC4Gpu.RGCpnH.flex
-shopee.co.id##.iC4Gpu.shopee-drawer
-shopee.co.id##.hByNZ_
-shopee.co.id##.p4E7Ry
-shopee.co.id##.r6OuTw.v-center.flex
-shopee.co.id##.hVHGVY
-shopee.co.id##.ho5zqj.v-center.flex
-shopee.co.id##.qLRgNc
-shopee.co.id##.shopee-header-section__content > .image-carousel > .image-carousel__item-list-wrapper > .image-carousel__item-list
-shopee.co.id##.home-category-list
-shopee.co.id##.Hhwytd.gJkGj_
-
-
 ! Tiktok
 www.tiktok.com##.ejkrawn1.css-18e9sac-ButtonGetAppText
 
@@ -239,3 +193,53 @@ steamdb.info##.header-sales
 www.linkedin.com##.t-normal.t-12.ml1.artdeco-button--1.artdeco-button--secondary.artdeco-button.pv-text-details__verify-action.app-aware-link
 www.speedtest.net###zdcFloatingBtn
 www.linkedin.com##.ember-view.artdeco-button--secondary.artdeco-button--2.artdeco-button.pvs-profile-actions__custom-action
+
+! Aug 28, 2024 https://shopee.co.id
+shopee.co.id##.full-home-banners-wrapper
+shopee.co.id##shopee-banner-closable-ui
+shopee.co.id##.KNMxJX
+shopee.co.id##.R3bOnT
+shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section > .shopee-header-section__header
+shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section
+shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__header
+shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__content
+shopee.co.id##.mzI1jX
+shopee.co.id##.AI_1H4.v-center.flex
+shopee.co.id##.E1OWqQ
+shopee.co.id##.navbar__link--help.navbar__link--hoverable.navbar__link--tappable.navbar__link
+shopee.co.id##.VCnXyn.BGng4e
+shopee.co.id##.stardust-tabs-header__tab--active.stardust-tabs-header__tab
+shopee.co.id##.c_J_OI
+shopee.co.id##.Ji_QfP.DFTbCr
+shopee.co.id##.section-banner-hotword--no-skin
+shopee.co.id##.HLRhQB
+shopee.co.id##.lRHCcS.CzLyKQ
+shopee.co.id##.row.QLiXDZ
+shopee.co.id##.shopee-header-section__header
+shopee.co.id##.BjTxuU.WuLbM9
+shopee.co.id##.T5n8VV.dOZlXw.ificCM.WuLbM9
+shopee.co.id##.IR54W9.fDdBqs.WuLbM9
+shopee.co.id##.QmkEaL.clear-btn-style
+shopee.co.id##._RPX38
+shopee.co.id##.ArX7yj
+shopee.co.id##.AFNv_2.v-center.flex
+shopee.co.id##._Pemhq.EysywS
+shopee.co.id##.o3v65L.RGCpnH.flex
+shopee.co.id##a.iC4Gpu.RGCpnH
+shopee.co.id###pc-drawer-id-1 > .RGCpnH
+shopee.co.id##.N8nd7b.iC4Gpu.RGCpnH.flex
+shopee.co.id##.iC4Gpu.shopee-drawer
+shopee.co.id##.hByNZ_
+shopee.co.id##.p4E7Ry
+shopee.co.id##.r6OuTw.v-center.flex
+shopee.co.id##.hVHGVY
+shopee.co.id##.ho5zqj.v-center.flex
+shopee.co.id##.qLRgNc
+shopee.co.id##.shopee-header-section__content > .image-carousel > .image-carousel__item-list-wrapper > .image-carousel__item-list
+shopee.co.id##.home-category-list
+shopee.co.id##.Hhwytd.gJkGj_
+shopee.co.id##shopee-vertical-stack-ui
+shopee.co.id##.section-below-the-fold > div:nth-of-type(3)
+shopee.co.id##.ciPWrW
+shopee.co.id##.fppaNP
+
