@@ -245,4 +245,5 @@ steamdb.info##.header-sales
 
 ! Aug 27, 2024 https://www.linkedin.com
 www.linkedin.com##.t-normal.t-12.ml1.artdeco-button--1.artdeco-button--secondary.artdeco-button.pv-text-details__verify-action.app-aware-link
+www.speedtest.net###zdcFloatingBtn
 
