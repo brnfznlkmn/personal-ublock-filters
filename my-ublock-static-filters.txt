@@ -15,6 +15,8 @@ www.threads.net##.xxbr6pl.xbbxn1n.x1g2khh7.xyinxu5
 www.threads.net##.xt8cgyo.x13fuv20.x6bh95i.x1l90r2v
 www.instagram.com##.wbloks_80.wbloks_1 > .wbloks_1
 www.instagram.com##div > .xnc8uc2.x11aubdm.xso031l.x1q0q8m5.x1bs97v6
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x1cy8zhl.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.x1swvt13.x1pi30zi.x1e56ztr.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xktsk01.x1d52u69.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
 
 ! X.com
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(6)
@@ -243,4 +245,5 @@ shopee.co.id##shopee-vertical-stack-ui
 shopee.co.id##.section-below-the-fold > div:nth-of-type(3)
 shopee.co.id##.ciPWrW
 shopee.co.id##.fppaNP
+
 
