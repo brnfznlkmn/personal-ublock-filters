@@ -36,6 +36,9 @@ x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-
 x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(10)
 x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(9)
 x.com##a.r-1loqt21.r-1ny4l3l.r-1mkv55d.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+x.com##.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-3o4zer.r-lp5zef.r-1ceczpf.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r
+x.com##.r-494qqr.css-175oi2r
+x.com##div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(3) > .r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-dnmrzs.r-16y2uox.css-175oi2r > .r-3pj75a.r-w7s2jr.r-16y2uox.r-18u37iz.r-1awozwy.css-175oi2r
 
 ! YOUTUBE
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
@@ -52,7 +55,6 @@ www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid, false)
 www.youtube.com##.sponsorBlockCategoryPill
 www.youtube.com###yt-ext-info-bar
 www.youtube.com###startSegmentButton
-www.youtube.com###chat
 www.youtube.com##.cbButton.cbSubmitButton > svg
 
 
@@ -96,7 +98,8 @@ web.facebook.com##.x1ceravr.xgmub6v.x193iq5w > div > div > .xdt5ytf.x78zum5 > .x
 web.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5
 www.web.facebook.com##.xwib8y2.x1y1aw1k.x4arcmf.x1n2onr6
 www.facebook.com##.xbktkl8.xifccgj.x4cne27.xbmpl8g.xykv574.xz9dl7a.xsag5q8.xurb0ha.x1sxyh0.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x1qjc9v5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##.xjbqb8w.xx6bls6.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6
+www.facebook.com##.xyamay9.xjkvuk6.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6
+www.facebook.com##.xwib8y2.x1y1aw1k.xwya9rg.x1n2onr6
 
 ! TOKOPEDIA
 www.tokopedia.com##.css-1ozis76
@@ -129,16 +132,57 @@ www.tokopedia.com##.css-1ra7d4a
 www.tokopedia.com##.css-76y5tu
 www.tokopedia.com##.eeeacht0.css-1dp256a-unf-card > .css-x2jffe > .css-fcoe5x > .css-i679q5
 
+!SHOPEE
+shopee.co.id##.full-home-banners-wrapper
+shopee.co.id##shopee-banner-closable-ui
+shopee.co.id##.KNMxJX
+shopee.co.id##.R3bOnT
+shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section > .shopee-header-section__header
+shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section
+shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__header
+shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__content
+shopee.co.id##.mzI1jX
+shopee.co.id##.AI_1H4.v-center.flex
+shopee.co.id##.E1OWqQ
+shopee.co.id##.navbar__link--help.navbar__link--hoverable.navbar__link--tappable.navbar__link
+shopee.co.id##.VCnXyn.BGng4e
+shopee.co.id##.stardust-tabs-header__tab--active.stardust-tabs-header__tab
+shopee.co.id##.c_J_OI
+shopee.co.id##.Ji_QfP.DFTbCr
+shopee.co.id##.section-banner-hotword--no-skin
+shopee.co.id##.HLRhQB
+shopee.co.id##.lRHCcS.CzLyKQ
+shopee.co.id##.row.QLiXDZ
+shopee.co.id##.shopee-header-section__header
+shopee.co.id##.BjTxuU.WuLbM9
+shopee.co.id##.T5n8VV.dOZlXw.ificCM.WuLbM9
+shopee.co.id##.IR54W9.fDdBqs.WuLbM9
+shopee.co.id##.QmkEaL.clear-btn-style
+shopee.co.id##._RPX38
+shopee.co.id##.ArX7yj
+shopee.co.id##.AFNv_2.v-center.flex
+shopee.co.id##._Pemhq.EysywS
+shopee.co.id##.o3v65L.RGCpnH.flex
+shopee.co.id##a.iC4Gpu.RGCpnH
+shopee.co.id###pc-drawer-id-1 > .RGCpnH
+shopee.co.id##.N8nd7b.iC4Gpu.RGCpnH.flex
+shopee.co.id##.iC4Gpu.shopee-drawer
+shopee.co.id##.hByNZ_
+shopee.co.id##.p4E7Ry
+shopee.co.id##.r6OuTw.v-center.flex
+shopee.co.id##.hVHGVY
+shopee.co.id##.ho5zqj.v-center.flex
+shopee.co.id##.qLRgNc
+shopee.co.id##.shopee-header-section__content > .image-carousel > .image-carousel__item-list-wrapper > .image-carousel__item-list
+shopee.co.id##.home-category-list
+shopee.co.id##.Hhwytd.gJkGj_
+shopee.co.id##shopee-vertical-stack-ui
+shopee.co.id##.section-below-the-fold > div:nth-of-type(3)
+shopee.co.id##.ciPWrW
+shopee.co.id##.fppaNP
+
 ! Tiktok
 www.tiktok.com##.ejkrawn1.css-18e9sac-ButtonGetAppText
-
-
-! Jun 6, 2024 https://id.carousell.com
-id.carousell.com##.M_bwg.D_bHA
-id.carousell.com##div.M_YW.D_ZV:nth-of-type(1)
-id.carousell.com##div.M_YW.D_ZV > div > .D_mb.D_ckk
-id.carousell.com##.D_mb.D_ckk
-id.carousell.com##.M_aJR.D_aSK
 
 ! Jun 6, 2024 https://www.speedtest.net
 www.speedtest.net##div.pure-u-1-8:nth-of-type(3)
@@ -189,13 +233,10 @@ mail.google.com##.tRcrsc.bcf.bAw
 www.olx.co.id##._3r_j1
 www.olx.co.id##._1iXLP
 www.olx.co.id##._34jCd
-
 vip.idlixofficialx.net###contenedor > center
 vip.idlixofficialx.net##.wpra-rendered.wpra-regular.wpra-plugin-container.wpra-reactions-wrap
 vip.idlixofficialx.net##.module_single_ads
-! Jul 25, 2024 http://84.247.133.159
 ||84.247.133.159/wp-content/uploads/2024/07/airasiabet_Banner-iklan-Sport-hero_400x400.gif$image
-! Jul 25, 2024 https://translatesubtitles.co
 translatesubtitles.co##.cnt223
 translatesubtitles.co##.fixed-top.bg-dark.navbar-dark.navbar-expand-lg.navbar
 bantenexis.com##.col-md-8.content-area
@@ -210,55 +251,6 @@ www.1024tera.com##.action-bar-view
 www.reddit.com##shreddit-mod-comment .max-w-full.inline-block.mx-2xs.xs\:mx-xs.py-0
 steamdb.info##.header-sales
 www.linkedin.com##.t-normal.t-12.ml1.artdeco-button--1.artdeco-button--secondary.artdeco-button.pv-text-details__verify-action.app-aware-link
-www.speedtest.net###zdcFloatingBtn
 www.linkedin.com##.ember-view.artdeco-button--secondary.artdeco-button--2.artdeco-button.pvs-profile-actions__custom-action
-
-! Aug 28, 2024 https://shopee.co.id
-shopee.co.id##.full-home-banners-wrapper
-shopee.co.id##shopee-banner-closable-ui
-shopee.co.id##.KNMxJX
-shopee.co.id##.R3bOnT
-shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section > .shopee-header-section__header
-shopee.co.id##.shopee-header-section--simple.au6P2T.shopee-header-section
-shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__header
-shopee.co.id##.shopee-header-section--simple._8Yk4uM.shopee-header-section > .shopee-header-section__content
-shopee.co.id##.mzI1jX
-shopee.co.id##.AI_1H4.v-center.flex
-shopee.co.id##.E1OWqQ
-shopee.co.id##.navbar__link--help.navbar__link--hoverable.navbar__link--tappable.navbar__link
-shopee.co.id##.VCnXyn.BGng4e
-shopee.co.id##.stardust-tabs-header__tab--active.stardust-tabs-header__tab
-shopee.co.id##.c_J_OI
-shopee.co.id##.Ji_QfP.DFTbCr
-shopee.co.id##.section-banner-hotword--no-skin
-shopee.co.id##.HLRhQB
-shopee.co.id##.lRHCcS.CzLyKQ
-shopee.co.id##.row.QLiXDZ
-shopee.co.id##.shopee-header-section__header
-shopee.co.id##.BjTxuU.WuLbM9
-shopee.co.id##.T5n8VV.dOZlXw.ificCM.WuLbM9
-shopee.co.id##.IR54W9.fDdBqs.WuLbM9
-shopee.co.id##.QmkEaL.clear-btn-style
-shopee.co.id##._RPX38
-shopee.co.id##.ArX7yj
-shopee.co.id##.AFNv_2.v-center.flex
-shopee.co.id##._Pemhq.EysywS
-shopee.co.id##.o3v65L.RGCpnH.flex
-shopee.co.id##a.iC4Gpu.RGCpnH
-shopee.co.id###pc-drawer-id-1 > .RGCpnH
-shopee.co.id##.N8nd7b.iC4Gpu.RGCpnH.flex
-shopee.co.id##.iC4Gpu.shopee-drawer
-shopee.co.id##.hByNZ_
-shopee.co.id##.p4E7Ry
-shopee.co.id##.r6OuTw.v-center.flex
-shopee.co.id##.hVHGVY
-shopee.co.id##.ho5zqj.v-center.flex
-shopee.co.id##.qLRgNc
-shopee.co.id##.shopee-header-section__content > .image-carousel > .image-carousel__item-list-wrapper > .image-carousel__item-list
-shopee.co.id##.home-category-list
-shopee.co.id##.Hhwytd.gJkGj_
-shopee.co.id##shopee-vertical-stack-ui
-shopee.co.id##.section-below-the-fold > div:nth-of-type(3)
-shopee.co.id##.ciPWrW
-shopee.co.id##.fppaNP
+www.speedtest.net###zdcFloatingBtn
 
