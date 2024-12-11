@@ -1,20 +1,21 @@
-### Deskripsi
+### Description
 
-**Nama Proyek:** My Personal Social Media Element Blocker CSS
+**Project Name:** My Personal Social Media Element Blocker CSS
 
-Proyek ini adalah sekumpulan aturan CSS yang dirancang untuk menyembunyikan elemen-elemen tertentu dari beberapa situs media sosial populer, termasuk Instagram, X (sebelumnya Twitter), YouTube, dan Facebook. Tujuan dari proyek ini adalah untuk memberikan pengalaman penelusuran yang lebih bersih dengan memblokir elemen-elemen yang tidak diinginkan, seperti iklan, rekomendasi video, dan konten promosi lainnya.
+This project is a set of CSS rules designed to hide certain elements from several popular social media sites, including Instagram, X (formerly Twitter), YouTube, and Facebook. The goal of this project is to provide a cleaner browsing experience by blocking unwanted elements, such as ads, video recommendations, and other promotional content.
 
-#### Fitur Utama:
-- **Instagram:** Menyembunyikan elemen-elemen seperti blok iklan, rekomendasi, dan elemen promosi lainnya.
-- **X (Twitter):** Menyembunyikan iklan dan elemen promosi yang muncul di berbagai bagian halaman.
-- **YouTube:** Memblokir tampilan iklan, rekomendasi video, dan beberapa elemen lain yang mungkin mengganggu pengalaman menonton video.
-- **Facebook:** Menyembunyikan iklan, rekomendasi, dan konten yang tidak diinginkan dari feed dan elemen halaman lainnya.
+#### Key Features:
+- **Instagram:** Hides elements such as ad blocks, recommendations, and other promotional elements.
+- **X (Twitter):** Hides ads and promotional elements that appear on various parts of the page.
+- **YouTube:** Blocks the appearance of ads, video recommendations, and several other elements that may interfere with the video viewing experience.
+- **Facebook:** Hides ads, recommendations, and other unwanted content from feeds and other page elements.
 
-#### Penggunaan:
-- File CSS ini dapat digunakan sebagai bagian dari ekstensi browser atau dimasukkan langsung ke dalam pengaturan browser yang mendukung custom CSS.
-- File ini juga dapat disesuaikan lebih lanjut untuk kebutuhan spesifik pengguna.
+#### Usage:
+- This CSS file can be used as part of a browser extension or inserted directly into the browser settings that support custom CSS.
 
-#### Instalasi:
-1. Unduh .txt file pada repository ini.
-2. Copy semua baris pada file .txt tersebut.
-3. Buka dashboard Ublock Origin kemudian ke menu My Filters paste semuanya disitu.
+- This file can also be further customized for specific user needs.
+
+#### Installation:
+1. Download the .txt file on this repository.
+2. Copy all lines in the .txt file.
+3. Open the Ublock Origin dashboard then go to the My Filters menu, paste everything there.
