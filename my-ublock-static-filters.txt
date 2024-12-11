@@ -371,3 +371,73 @@ link.paid4link.com##.blog-content
 ! Nov 21, 2024 https://www.tokopedia.com
 www.tokopedia.com##.css-1a338gw
 
+! Nov 25, 2024 https://shopee.co.id
+shopee.co.id###sll2-InformationBlockID
+
+! Nov 27, 2024 https://www.cnnindonesia.com
+www.cnnindonesia.com##.text-cnn_black.bg-cnn_light_grey3.px-6.z-20.py-\[34px\].right-0.left-0.bottom-0.fixed
+www.cnnindonesia.com##.relative.w-\[300px\].flex-none
+www.cnnindonesia.com##.z-20.relative.h-10.mb-4.text-sm.text-white.px-4.py-3.bg-cnn_red
+www.cnnindonesia.com###uid_6b77ba4a70_mde6mza6ntm
+www.cnnindonesia.com##div.my-5:nth-of-type(13)
+www.cnnindonesia.com##.w-\[360px\].z-50.right-0.bottom-\[50px\].fixed.mb-4.text-sm.text-white.px-4.py-3.bg-cnn_red
+www.cnnindonesia.com##body > .bg-cnn_black_light2
+www.cnnindonesia.com##.gap-7.mb-5.grid-cols-2.grid
+www.cnnindonesia.com##.bg-cnn_red.pb-4.px-3.\@container
+www.cnnindonesia.com##.mt-5.pb-4.bg-cnn_light_grey3.left-\[calc\(50\%_\+_162px\)\].px-4
+www.cnnindonesia.com##.bottom-\[50px\].left-0.z-40.fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
+
+! Nov 27, 2024 https://news.detik.com
+news.detik.com##.billboard-top
+news.detik.com##.bottom_banner_container
+news.detik.com##.bottom_banner_bar
+news.detik.com##.float-vid__content-title > .media__link
+news.detik.com##.float-vid__content
+news.detik.com###leaderboard
+news.detik.com##.mr1-scrollpage-height
+news.detik.com##.mgt-16.content__bg.grid-row > .column-4
+news.detik.com##.ads-scrollpage-height
+news.detik.com##.staticdetail_ads
+news.detik.com##.staticdetail_container
+news.detik.com##.skybanner
+
+! Nov 27, 2024 https://megapolitan.kompas.com
+megapolitan.kompas.com##.clearfix.kcm__top.kcm
+||widget.kompas.com/pilkada2024/quickcount$subdocument
+kompas.com##.clearfix.kcm__horizontal.kcm
+kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm > .clearfix.kcm__track.kcm
+kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
+kompas.com##div.clearfix.mt2.row > .clearfix.kcm__track.kcm
+||widget.kompas.com/pilkada2024/quickcount$subdocument
+kompas.com##.col-bs10-3
+kompas.com##.clearfix.kcm__tower.kcm
+kompas.com##.nav.clearfix.row
+||widget.kompas.com/pilkada2024/quickcount$subdocument
+kompas.com##.osmplaceonsite.ads-partner-wrap
+kompas.com##.mgidaiml.ads-partner-wrap
+kompas.com##.native-wrap
+
+
+www.youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
+youtube.com##.ytp-pause-overlay
+
+! Nov 29, 2024 https://www.facebook.com
+www.facebook.com##.x1iorvi4.xn6708d.x1ye3gou.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##.xwib8y2.x1y1aw1k.xn6708d.x1ye3gou.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##.x1iorvi4.xn6708d.x1ye3gou.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##.xwib8y2.x1y1aw1k.xn6708d.x1ye3gou.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+
+! Dec 9, 2024 https://chatgpt.com
+chatgpt.com##.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
+
+! Dec 10, 2024 https://www.facebook.com
+www.facebook.com##.x1ye3gou.x1120s5i.xn6708d.xz9dl7a.x1qughib.x1q0g3np.x78zum5
+www.facebook.com##.x1ye3gou.x1l90r2v.xn6708d.x1y1aw1k.xl56j7k.x1qx5ct2.x78zum5.x6s0dn4
+
